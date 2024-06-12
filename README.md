@@ -1,6 +1,6 @@
 # bgChanger
 
-![Project Screenshot]()
+![Project Screenshot](src/Components/UI.png)
 
 ## Overview
 
