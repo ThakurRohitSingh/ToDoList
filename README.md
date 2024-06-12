@@ -1,4 +1,4 @@
-# bgChanger
+# ToDo List
 
 ![Project Screenshot](src/Components/UI.png)
 
